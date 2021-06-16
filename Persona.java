@@ -61,5 +61,10 @@ public class Persona {
     public void setAltura(double altura) {
         this.altura = altura;
     }
+public void otroMetodo(){
+
+    System.out.println("y aqui agrego otra modificacion para hacer un pull request");
+}
+
 
 }//fin clase
